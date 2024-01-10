@@ -7,6 +7,15 @@
 
 ## Introduction
 
+
+Dive deep into your Spotify listening habits with this interactive Power BI dashboard.
+
+Key features:
+Track your top tracks and artists
+Analyze your listening trends
+Explore music by release date
+Customize the dashboard
+
 This dataset encapsulates the vibrancy of the music landscape in 2023, specifically focusing on the most celebrated songs of the year as listed on Spotify. With a comprehensive set of features beyond typical music datasets, it provides insights into the attributes, popularity, and presence of each song across various music platforms. From track names and artist details to streaming statistics and chart rankings, this dataset offers a holistic view of the music scene in 2023.
 
 ## Dataset Structure
